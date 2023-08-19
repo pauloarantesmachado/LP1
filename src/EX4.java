@@ -20,5 +20,14 @@ public class EX4 {
         g = (3 + 8/2)*4 + 3*2;
         i = (10*8 + 3)*9;
         j = (-12)*(-4) + 3*(-4);
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(d);
+        System.out.println(e);
+        System.out.println(f);
+        System.out.println(g);
+        System.out.println(i);
+        System.out.println(j);
     }
 }
