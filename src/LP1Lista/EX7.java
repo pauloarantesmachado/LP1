@@ -1,3 +1,5 @@
+package LP1Lista;
+
 import java.util.Scanner;
 
 public class EX7 {

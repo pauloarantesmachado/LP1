@@ -1,3 +1,5 @@
+package LP1Lista;
+
 public class EX10 {
     public static void main(String[] args) {
         double custo = 30000;

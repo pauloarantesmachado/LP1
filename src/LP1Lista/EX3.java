@@ -1,3 +1,5 @@
+package LP1Lista;
+
 public class EX3 {
     public static void main(String[] args) {
         double a;

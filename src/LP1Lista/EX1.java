@@ -1,3 +1,5 @@
+package LP1Lista;
+
 public class EX1 {
     public static void main(String[] args) {
          int a;
@@ -11,3 +13,5 @@ public class EX1 {
     }
 
 }
+
+/*lindo demais voce*/
