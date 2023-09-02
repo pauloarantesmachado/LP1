@@ -1,4 +1,4 @@
-package LP1Teste;
+package LP1Classes.LP1ClasseTest10Classes;
 
 import LP1Classes.*;
 

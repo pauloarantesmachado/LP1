@@ -14,4 +14,3 @@ public class EX1 {
 
 }
 
-/*lindo demais voce*/
