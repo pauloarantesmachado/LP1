@@ -32,8 +32,9 @@ public class Televisao {
         this.tamanho = tamanho;
     }
 
-    public void Ligar(){
+    public void ligar(){
         this.liga = true;
+        System.out.println("Tv ligada");
     }
 
     public void desligar(){
